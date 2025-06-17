@@ -56,18 +56,4 @@ System logs and telemetry data can help in proactively identifying threats like 
 
 ---
 
-## 🧪 Results
-
-| Model           | Accuracy | F1 Score | ROC-AUC |
-|----------------|----------|----------|---------|
-| Logistic Reg.   | 0.82     | 0.79     | 0.84    |
-| Random Forest   | 0.88     | 0.85     | 0.91    |
-| **XGBoost**     | **0.91** | **0.88** | **0.94** |
-| LightGBM        | 0.89     | 0.86     | 0.92    |
-
-🏆 **Final submission used XGBoost with tuned parameters and achieved high accuracy on Kaggle public leaderboard.**
-
----
-
-## 🧾 File Structure
 
